@@ -145,6 +145,12 @@ body {
     color: #ccc;
 }
 
+.return-home {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0 60px;
+}
+
 /* =========================
    Tablet
 ========================= */
